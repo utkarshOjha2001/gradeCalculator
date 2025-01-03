@@ -1,5 +1,5 @@
 {
-  "name": "gradecalculator",
+  "name": "pro-grade-calculator",
   "version": "1.0.0",
   "description": "A function to calculate grades based on maximum marks and obtained marks",
   "main": "index.js",
