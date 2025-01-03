@@ -1,0 +1,22 @@
+{
+  "name": "gradecalculator",
+  "version": "1.0.0",
+  "description": "A function to calculate grades based on maximum marks and obtained marks",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarshOjha2001/gradeCalculator.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Utkarsh Ojha",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/utkarshOjha2001/gradeCalculator/issues"
+  },
+  "homepage": "https://github.com/utkarshOjha2001/gradeCalculator#readme"
+}
